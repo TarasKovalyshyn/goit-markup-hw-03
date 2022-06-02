@@ -107,7 +107,6 @@ img {
   line-height: 1.14;
   letter-spacing: 0.02em;
   color: var(--mail-color);
-  margin-right: 50px;
 }
 .header-mail:hover,
 .header-mail:focus {
@@ -227,7 +226,7 @@ img {
   line-height: 1.16;
   text-align: center;
   letter-spacing: 0.03em;
-  padding-bottom: 50px;
+  margin-bottom: 50px;
 
   color: var(--main-color);
 }
@@ -356,8 +355,7 @@ img {
 .buttons-list {
   display: flex;
   justify-content: center;
- /* margin-bottom: 50px;*/
- padding-bottom: 50px;
+  margin-bottom: 50px;
 }
 
 .buttons-item:not(:last-child) {
